@@ -1,0 +1,26 @@
+:root {
+  --color-vdkgr-blue: hsl(217, 19%, 35%);
+  --color-dsdk-blue: hsl(214, 17%, 51%);
+  --color-gr-blue: hsl(212, 23%, 69%);
+  --color-ltgr-blue: hsl(210, 46%, 95%);
+  --font-manrope-500: 500 1rem/1.1 "Manrope", sans-serif;
+  --font-manrope-700: 700 1rem/1.1 "Manrope", sans-serif;
+}
+.color-vdkgr-blue {
+  color: var(--color-vdkgr-blue);
+}
+.color-dsdk-blue {
+  color: var(--color-dsdk-blue);
+}
+.color-gr-blue {
+  color: var(--color-gr-blue);
+}
+.color-ltgr-blue {
+  color: var(--color-ltgr-blue);
+}
+.font-manrope-500 {
+  font: var(--font-manrope-500);
+}
+.font-manrope-700 {
+  font: var(--font-manrope-700);
+}
