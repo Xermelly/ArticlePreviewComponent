@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/faq-accordion-card-BF1Y0S0U8p)
-- Live Site URL: [Vercel](https://faqaccordioncard-xi.vercel.app/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/article-preview-component-GJVezYad--)
+- Live Site URL: [Vercel](https://articlepreviewcomponent.vercel.app/)
 
 ## My process
 
